@@ -1,0 +1,14 @@
+{
+  "email_from": "example@gmail.com",
+  "email_to": ["name@example.com"],
+  "use_gmail": true,
+  "no_email": false,
+  "gmail_password": "",
+
+  "location": "2",
+  "day": "7",
+  "level": "14",
+  "earliestTime": "9:30am",
+  "latestTime": "5:00pm",
+  "verbose" : false
+}
